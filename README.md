@@ -44,10 +44,6 @@ To run this project locally, follow these steps:
 2. Click the "Check" button or press "Enter".
 3. The result will be displayed below the input field, indicating whether the input is a palindrome or not.
 
-## Screenshots
-
-![Palindrome Checker Screenshot](screenshot.png)
-
 ## Acknowledgements
 
 This project was created as part of a training module on [FreeCodeCamp](https://www.freecodecamp.org/). Special thanks to the FreeCodeCamp community for their continuous support and resources.
