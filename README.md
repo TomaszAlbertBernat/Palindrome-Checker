@@ -54,5 +54,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests. Happy coding!
-
+Made by T-A-B
